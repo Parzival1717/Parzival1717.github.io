@@ -122,7 +122,7 @@ Background settings*/
 }
 
 /* mobile settings*/
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1080px) {
   /*youtube settings*/
   .Video{
     width: 340px;
